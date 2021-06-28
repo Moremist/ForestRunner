@@ -298,7 +298,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Y3J9DR9455;
-				INFOPLIST_FILE = "HomeWork_16_ ForestRunner/Info1.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/ForestRunner/Info1.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -317,7 +317,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = Y3J9DR9455;
-				INFOPLIST_FILE = "HomeWork_16_ ForestRunner/Info1.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/ForestRunner/Info1.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
