@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6F421110265D12FE0027EF95 /* HomeWork_16_ ForestRunner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HomeWork_16_ ForestRunner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F421110265D12FE0027EF95 /* ForestRunner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ForestRunner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F421113265D12FE0027EF95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6F421119265D12FE0027EF95 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		6F42111B265D12FE0027EF95 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 		6F421107265D12FE0027EF95 = {
 			isa = PBXGroup;
 			children = (
-				6F421112265D12FE0027EF95 /* HomeWork_16_ ForestRunner */,
+				6F421112265D12FE0027EF95 /* ForestRunner */,
 				6F421111265D12FE0027EF95 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,12 +57,12 @@
 		6F421111265D12FE0027EF95 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F421110265D12FE0027EF95 /* HomeWork_16_ ForestRunner.app */,
+				6F421110265D12FE0027EF95 /* ForestRunner.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6F421112265D12FE0027EF95 /* HomeWork_16_ ForestRunner */ = {
+		6F421112265D12FE0027EF95 /* ForestRunner */ = {
 			isa = PBXGroup;
 			children = (
 				6F421113265D12FE0027EF95 /* AppDelegate.swift */,
@@ -77,15 +77,15 @@
 				6FF1A7C3265E91E100BEF71F /* Info1.plist */,
 				6F421149265D1BB50027EF95 /* hero.atlas */,
 			);
-			path = "HomeWork_16_ ForestRunner";
+			path = ForestRunner;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6F42110F265D12FE0027EF95 /* HomeWork_16_ ForestRunner */ = {
+		6F42110F265D12FE0027EF95 /* ForestRunner */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F421125265D13080027EF95 /* Build configuration list for PBXNativeTarget "HomeWork_16_ ForestRunner" */;
+			buildConfigurationList = 6F421125265D13080027EF95 /* Build configuration list for PBXNativeTarget "ForestRunner" */;
 			buildPhases = (
 				6F42110C265D12FE0027EF95 /* Sources */,
 				6F42110D265D12FE0027EF95 /* Frameworks */,
@@ -95,9 +95,9 @@
 			);
 			dependencies = (
 			);
-			name = "HomeWork_16_ ForestRunner";
+			name = ForestRunner;
 			productName = HomeWork_16_CubeGame;
-			productReference = 6F421110265D12FE0027EF95 /* HomeWork_16_ ForestRunner.app */;
+			productReference = 6F421110265D12FE0027EF95 /* ForestRunner.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6F42110B265D12FE0027EF95 /* Build configuration list for PBXProject "HomeWork_16_ ForestRunner" */;
+			buildConfigurationList = 6F42110B265D12FE0027EF95 /* Build configuration list for PBXProject "ForestRunner" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F42110F265D12FE0027EF95 /* HomeWork_16_ ForestRunner */,
+				6F42110F265D12FE0027EF95 /* ForestRunner */,
 			);
 		};
 /* End PBXProject section */
@@ -303,7 +303,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Skillbox.HomeWork-16-ForestRunner";
+				PRODUCT_BUNDLE_IDENTIFIER = Skillbox.ForestRunner;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -322,7 +322,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Skillbox.HomeWork-16-ForestRunner";
+				PRODUCT_BUNDLE_IDENTIFIER = Skillbox.ForestRunner;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -332,7 +332,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F42110B265D12FE0027EF95 /* Build configuration list for PBXProject "HomeWork_16_ ForestRunner" */ = {
+		6F42110B265D12FE0027EF95 /* Build configuration list for PBXProject "ForestRunner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F421123265D13080027EF95 /* Debug */,
@@ -341,7 +341,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F421125265D13080027EF95 /* Build configuration list for PBXNativeTarget "HomeWork_16_ ForestRunner" */ = {
+		6F421125265D13080027EF95 /* Build configuration list for PBXNativeTarget "ForestRunner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F421126265D13080027EF95 /* Debug */,
