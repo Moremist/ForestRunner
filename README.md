@@ -10,3 +10,9 @@
 2. Герой - https://clembod.itch.io/warrior-free-animation-set
 3. Враги - https://szadiart.itch.io/animated-character-pack
 4. Музыка - https://www.free-stock-music.com/makai-symphony-dragon-slayer.html
+
+## Скриншоты:
+
+![IT5iVi301kM](https://user-images.githubusercontent.com/86111316/123775027-a6ebbc00-d8d6-11eb-9f9a-ac0bfb0a34bf.jpg)
+![omFvYiIichc](https://user-images.githubusercontent.com/86111316/123775016-a521f880-d8d6-11eb-9249-6d1a1e1ee84c.jpg)
+
